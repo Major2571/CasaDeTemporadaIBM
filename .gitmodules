@@ -1,3 +1,6 @@
 [submodule "reservas-front"]
 	path = reservas-front
 	url = https://github.com/Major2571/reservas-front.git
+[submodule "reservas"]
+	path = reservas
+	url = https://github.com/Major2571/reservas.git
