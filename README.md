@@ -1,6 +1,7 @@
 # Casa de Temporada - API REST e Aplicação Angular
 
-Este é o repositório principal do projeto "Reservas", que contém dois submódulos importantes: "reservas" e "reservas-frontend". Esses submódulos são repositórios separados que trabalham em conjunto para fornecer funcionalidades completas para o sistema de reservas.
+Projeto final do Bootcamp IBM 2023 que consistiu na criação de uma API REST e uma aplicação Angular para gerenciar reservas em uma Casa de Temporada. 
+Este é o repositório principal do projeto "Reservas", que contém dois submódulos importantes: "reservas" e "reservas-frontend". Esses submódulos são repositórios separados que trabalham em conjunto para fornecer funcionalidades completas para o sistema de reservas. 
 
 ## Tecnologias Utilizadas
 
@@ -59,7 +60,12 @@ Esta seção fornece as instruções necessárias para executar os projetos back
 ## Saiba Mais
 
 Se você deseja explorar mais detalhes sobre cada uma das partes deste projeto, você pode acessar os repositórios correspondentes:
-<div align="center">
+
+<div>
   <a href="https://github.com/Major2571/reservas"><img height="130" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Major2571&repo=reservas&show_icons=true&count_private=true&hide_border=true&title_color=FD6767&icon_color=9A1A27&text_color=c9d1d9&bg_color=0d1117" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/Major2571/reservas-front"><img height="130" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Major2571&repo=reservas-front&show_icons=true&count_private=true&hide_border=true&title_color=FD6767&icon_color=9A1A27&text_color=c9d1d9&bg_color=0d1117" alt="github-readme-streak-stats"></a>
 </div>
+
+E sobre o que vimos ao decorrer do Bootcamp aqui:
+
+<a href="https://github.com/Major2571/BootcampIBM"><img height="130" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Major2571&repo=BootcampIBM&show_icons=true&count_private=true&hide_border=true&title_color=FD6767&icon_color=9A1A27&text_color=c9d1d9&bg_color=0d1117" alt="github-readme-streak-stats"></a>
